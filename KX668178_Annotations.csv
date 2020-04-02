@@ -1,0 +1,185 @@
+Name,Type,Minimum,Maximum,Length,# Intervals,Direction
+large single copy region (LSC),misc_feature,1,83953,83953,1,forward
+trnH-GUG tRNA,tRNA,22,96,75,1,reverse
+psbA CDS,CDS,517,1578,1062,1,reverse
+trnK-UUU tRNA,tRNA,1794,4367,72,2,reverse
+trnK-UUU exon 2,exon,1794,1828,35,1,reverse
+matK CDS,CDS,2079,3611,1533,1,reverse
+trnK-UUU exon 1,exon,4331,4367,37,1,reverse
+rps16 exon 2,exon,5155,5373,219,1,reverse
+rps16 CDS,CDS,5155,6223,261,2,reverse
+rps16 exon 1,exon,6182,6223,42,1,reverse
+trnQ-UUG tRNA,tRNA,6948,7019,72,1,reverse
+psbK CDS,CDS,7357,7536,180,1,forward
+psbI CDS,CDS,7923,8033,111,1,forward
+trnS-GCU tRNA,tRNA,8103,8190,88,1,reverse
+trnG-UCC tRNA,tRNA,8854,9616,71,2,forward
+trnG-UCC exon 1,exon,8854,8876,23,1,forward
+trnG-UCC exon 2,exon,9569,9616,48,1,forward
+trnR-UCU tRNA,tRNA,9889,9960,72,1,forward
+atpA CDS,CDS,10005,11528,1524,1,reverse
+atpF exon 2,exon,11582,11992,411,1,reverse
+atpF CDS,CDS,11582,12854,570,2,reverse
+atpF exon 1,exon,12696,12854,159,1,reverse
+atpH CDS,CDS,13205,13450,246,1,reverse
+atpI CDS,CDS,14179,14922,744,1,reverse
+rps2 CDS,CDS,15151,15861,711,1,reverse
+rpoC2 CDS,CDS,16081,20268,4188,1,reverse
+rpoC1 exon 2,exon,20424,22049,1626,1,reverse
+rpoC1 CDS,CDS,20424,23209,2061,2,reverse
+rpoC1 exon 1,exon,22775,23209,435,1,reverse
+rpoB CDS,CDS,23236,26448,3213,1,reverse
+trnC-GCA tRNA,tRNA,27340,27420,81,1,forward
+petN CDS,CDS,27860,27949,90,1,forward
+psbM CDS,CDS,28908,29024,117,1,reverse
+trnD-GUC tRNA,tRNA,30122,30195,74,1,reverse
+trnY-GUA tRNA,tRNA,30295,30378,84,1,reverse
+trnE-UUC tRNA,tRNA,30443,30515,73,1,reverse
+trnT-GGU tRNA,tRNA,31146,31217,72,1,forward
+psbD CDS,CDS,32486,33547,1062,1,forward
+psbC CDS,CDS,33495,34916,1422,1,forward
+trnS-UGA tRNA,tRNA,35136,35227,92,1,reverse
+psbZ CDS,CDS,35575,35763,189,1,forward
+trnG-UCC tRNA,tRNA,36025,36095,71,1,forward
+trnfM-CAU tRNA,tRNA,36240,36313,74,1,reverse
+rps14 CDS,CDS,36466,36768,303,1,reverse
+psaB CDS,CDS,36892,39096,2205,1,reverse
+psaA CDS,CDS,39122,41374,2253,1,reverse
+pafI exon 3,exon,41917,42069,153,1,reverse
+pafI CDS,CDS,41917,43854,510,3,reverse
+pafI exon 2,exon,42780,43007,228,1,reverse
+pafI exon 1,exon,43726,43854,129,1,reverse
+trnS-GGA tRNA,tRNA,44787,44873,87,1,forward
+rps4 CDS,CDS,45113,45718,606,1,reverse
+trnT-UGU tRNA,tRNA,46060,46132,73,1,reverse
+trnL-UAA tRNA,tRNA,46925,47516,87,2,forward
+trnL-UAA exon 1,exon,46925,46961,37,1,forward
+trnL-UAA exon 2,exon,47467,47516,50,1,forward
+trnF-GAA tRNA,tRNA,47850,47922,73,1,forward
+ndhJ CDS,CDS,48580,49056,477,1,reverse
+ndhK CDS,CDS,49164,49850,687,1,reverse
+ndhC CDS,CDS,49896,50258,363,1,reverse
+trnV-UAC tRNA,tRNA,51191,51840,76,2,reverse
+trnV-UAC exon 2,exon,51191,51227,37,1,reverse
+trnV-UAC exon 1,exon,51802,51840,39,1,reverse
+trnM-CAU tRNA,tRNA,52002,52074,73,1,forward
+atpE CDS,CDS,52285,52686,402,1,reverse
+atpB CDS,CDS,52683,54179,1497,1,reverse
+rbcL CDS,CDS,54931,56358,1428,1,forward
+accD CDS,CDS,57006,58478,1473,1,forward
+psaI CDS,CDS,59172,59282,111,1,forward
+pafII CDS,CDS,59707,60261,555,1,forward
+cemA CDS,CDS,60628,61308,681,1,forward
+petA CDS,CDS,61530,62492,963,1,forward
+psbJ CDS,CDS,63367,63489,123,1,reverse
+psbL CDS,CDS,63628,63744,117,1,reverse
+psbF CDS,CDS,63767,63886,120,1,reverse
+psbE CDS,CDS,63896,64147,252,1,reverse
+petL CDS,CDS,65289,65384,96,1,forward
+petG CDS,CDS,65525,65638,114,1,forward
+trnW-CCA tRNA,tRNA,65760,65833,74,1,reverse
+trnP-UGG tRNA,tRNA,66029,66103,75,1,reverse
+psaJ CDS,CDS,66501,66635,135,1,forward
+rpl33 CDS,CDS,67111,67311,201,1,forward
+rps18 CDS,CDS,67481,67786,306,1,forward
+rpl20 CDS,CDS,68061,68414,354,1,reverse
+rps12 exon 1,exon,69188,69301,114,1,reverse
+rps12 CDS,CDS,69188,138230,372,3,mixed
+rps12 CDS,CDS,69188,97735,372,3,reverse
+clpP exon 3,exon,69445,69672,228,1,reverse
+clpP CDS,CDS,69445,71502,588,3,reverse
+clpP exon 2,exon,70284,70574,291,1,reverse
+clpP exon 1,exon,71434,71502,69,1,reverse
+psbB CDS,CDS,71961,73487,1527,1,forward
+psbT CDS,CDS,73685,73792,108,1,forward
+psbN CDS,CDS,73853,73984,132,1,reverse
+psbH CDS,CDS,74087,74320,234,1,forward
+petB exon 1,exon,74451,74456,6,1,forward
+petB CDS,CDS,74451,75874,648,2,forward
+petB exon 2,exon,75233,75874,642,1,forward
+petD exon 1,exon,76062,76067,6,1,forward
+petD CDS,CDS,76062,77322,483,2,forward
+petD exon 2,exon,76846,77322,477,1,forward
+rpoA CDS,CDS,77514,78521,1008,1,reverse
+rps11 CDS,CDS,78584,79000,417,1,reverse
+rpl36 CDS,CDS,79112,79225,114,1,reverse
+rps8 CDS,CDS,79657,80061,405,1,reverse
+rpl14 CDS,CDS,80265,80633,369,1,reverse
+rpl16 exon 2,exon,80751,81149,399,1,reverse
+rpl16 CDS,CDS,80751,81961,408,2,reverse
+rpl16 exon 1,exon,81953,81961,9,1,reverse
+rps3 CDS,CDS,82124,82780,657,1,reverse
+rpl22 CDS,CDS,82765,83202,438,1,reverse
+repeat B (IRb) repeat region,repeat_region,83224,108683,25460,1,forward
+rps19 CDS,CDS,83248,83526,279,1,reverse
+rpl2 exon 2,exon,83582,84016,435,1,reverse
+rpl2 CDS,CDS,83582,85067,828,2,reverse
+rpl2 exon 1,exon,84675,85067,393,1,reverse
+rpl23 CDS,CDS,85086,85367,282,1,reverse
+trnI-CAU tRNA,tRNA,85533,85606,74,1,reverse
+ycf2 CDS,CDS,85695,92552,6858,1,forward
+ycf15 CDS,CDS,92634,92897,264,1,forward
+trnL-CAA tRNA,tRNA,93266,93346,81,1,reverse
+ndhB exon 2,exon,93898,94653,756,1,reverse
+ndhB CDS,CDS,93898,96109,1533,2,reverse
+ndhB exon 1,exon,95333,96109,777,1,reverse
+rps7 CDS,CDS,96417,96884,468,1,reverse
+rps12 exon 3,exon,96938,96964,27,1,reverse
+rps12 exon 2,exon,97505,97735,231,1,reverse
+trnV-GAC tRNA,tRNA,99185,99256,72,1,forward
+rrn16 rRNA,rRNA,99485,100974,1490,1,forward
+trnI-GAU tRNA,tRNA,101268,102098,77,2,forward
+trnI-GAU exon 1,exon,101268,101309,42,1,forward
+trnI-GAU exon 2,exon,102064,102098,35,1,forward
+trnA-UGC,tRNA,102163,103043,73,2,forward
+trnA-UGC exon 1,exon,102200,102517,318,1,forward
+exon 2,exon,103009,103395,387,1,forward
+rrn23 rRNA,rRNA,103044,106012,2969,1,forward
+rrn4.5 rRNA,rRNA,106111,106213,103,1,forward
+rrn5 rRNA,rRNA,106443,106563,121,1,forward
+trnR-ACG tRNA,tRNA,106820,106893,74,1,forward
+trnN-GUU tRNA,tRNA,107371,107442,72,1,reverse
+ndhF CDS,CDS,108642,110879,2238,1,reverse
+small single copy region (SSC),misc_feature,108684,126484,17801,1,forward
+rpl32 CDS,CDS,111758,111919,162,1,forward
+trnL-UAG tRNA,tRNA,112350,112429,80,1,forward
+ccsA CDS,CDS,112529,113509,981,1,forward
+ndhD CDS,CDS,113726,115246,1521,1,reverse
+psaC CDS,CDS,115359,115604,246,1,reverse
+ndhE CDS,CDS,115880,116182,303,1,reverse
+ndhG CDS,CDS,116401,116931,531,1,reverse
+ndhI CDS,CDS,117296,117799,504,1,reverse
+ndhA exon 2,exon,117881,118426,546,1,reverse
+ndhA CDS,CDS,117881,120043,1098,2,reverse
+ndhA exon 1,exon,119492,120043,552,1,reverse
+ndhH CDS,CDS,120045,121226,1182,1,reverse
+rps15 CDS,CDS,121305,121577,273,1,reverse
+ycf1 CDS,CDS,121942,127413,5472,1,reverse
+repeat A (IRa) repeat region,repeat_region,126485,151944,25460,1,reverse
+trnN-GUU tRNA,tRNA,127726,127797,72,1,forward
+trnR-ACG tRNA,tRNA,128275,128348,74,1,reverse
+rrn5 rRNA,rRNA,128605,128725,121,1,reverse
+rrn4.5 rRNA,rRNA,128955,129057,103,1,reverse
+rrn23 rRNA,rRNA,129156,131965,2810,1,reverse
+trnA-UGC,tRNA,132125,133005,73,2,reverse
+trnA-UGC exon 2,exon,132125,132159,35,1,reverse
+trnA-UGC exon 1,exon,132968,133005,38,1,reverse
+trnI-GAU tRNA,tRNA,133070,133900,77,2,reverse
+trnI-GAU exon 2,exon,133070,133104,35,1,reverse
+trnI-GAU exon 1,exon,133859,133900,42,1,reverse
+rrn16 rRNA,rRNA,134194,135683,1490,1,reverse
+trnV-GAC tRNA,tRNA,135912,135983,72,1,reverse
+rps12 exon 2,exon,137433,137663,231,1,forward
+exon 3,exon,138030,138204,175,1,reverse
+rps7 CDS,CDS,138284,138751,468,1,forward
+ndhB exon 1,exon,139059,139835,777,1,forward
+ndhB CDS,CDS,139059,141270,1533,2,forward
+ndhB exon 2,exon,140515,141270,756,1,forward
+trnL-CAA tRNA,tRNA,141822,141902,81,1,forward
+ycf15 CDS,CDS,142271,142534,264,1,reverse
+ycf2 CDS,CDS,142616,149473,6858,1,reverse
+trnI-CAU tRNA,tRNA,149562,149635,74,1,reverse
+rpl23 CDS,CDS,149801,150082,282,1,forward
+rpl2 exon 1,exon,150101,150493,393,1,forward
+rpl2 CDS,CDS,150101,151586,828,2,forward
+rpl2 exon 2,exon,151152,151586,435,1,forward
